@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ],
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "0244f60c-6f3a-491f-4f8a-43febc38d63c",
+  "instructors": {
+    "content": [
+      "742c671b-83ff-dc26-94ec-01222480e506",
+      "4770a912-0ac1-5c2b-2750-d819b534e616"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f620eb0e-e65a-809a-76c0-0f2e4f51acdf",
+    "website": "9-04-sensory-systems-fall-2013"
+  },
+  "course_title": "Sensory Systems",
+  "course_description": "This course examines the neural bases of sensory perception. The focus is on physiological and anatomical studies of the mammalian nervous system as well as behavioral studies of animals and humans. Topics include visual pattern, color and depth perception, auditory responses and sound localization, and somatosensory perception.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.04",
+  "course_image_thumbnail": {
+    "content": "1aae3023-05c4-fb9a-988f-58e76e1e1bb0",
+    "website": "9-04-sensory-systems-fall-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "59f330a9-c96a-4730-a464-2e869b840bd6",
+  "site_short_id": "9.04-fall-2013",
+  "site_url_path": "courses/9-04-sensory-systems-fall-2013",
+  "title": "Course Metadata"
+}
