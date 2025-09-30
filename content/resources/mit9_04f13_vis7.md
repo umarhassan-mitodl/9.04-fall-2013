@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 7 notes.
 file: /courses/9-04-sensory-systems-fall-2013/665aaa5d7ed1cbb1e4998a0e523fcf1f_MIT9_04F13_Vis7.pdf
 file_size: 5858023
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

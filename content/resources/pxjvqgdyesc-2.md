@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-04-sensory-systems-fall-2013/229f1f8a8c295c3eb4157435ebe1bbe7_PXJvQGDyESc.vtt
 file_size: 103582
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
