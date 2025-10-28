@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the writing assignments for the visual and auditory
   systems sections of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ Written report - Visual system
 (There will be a penalty for late assignments.)  
 You are to read the Oyster & Barlow (1967) paper listed and to write a report describing the essence of the paper. You must also do a bit of research and write about what has happened in the field since the paper was published.
 
-Oyster, C. W., and H. B. Barlow. "[Direction-Selective Units in Rabbit Retina: Distribution of Preferred Directions](http://dx.doi.org/10.1126/science.155.3764.841)." _Science_ 155, no. 3764 (1967): 841–2.
+Oyster, C. W., and H. B. Barlow. "{{% resource_link "8c66d092-c7b7-406a-a14c-a3afc3aee0fc" "Direction-Selective Units in Rabbit Retina: Distribution of Preferred Directions" %}}." _Science_ 155, no. 3764 (1967): 841–2.
 
 Written report - Auditory system
 --------------------------------

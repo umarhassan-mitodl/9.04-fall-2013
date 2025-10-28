@@ -4,8 +4,6 @@ description: ''
 file: /courses/9-04-sensory-systems-fall-2013/9ae51e9bc56ac9e49e11730eeed510f9_9-04_stat-students.png
 file_size: 2950
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

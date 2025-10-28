@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the lecture notes for the vision portion of the
   course, plus the introductory audition lecture.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
