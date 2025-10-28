@@ -13,7 +13,7 @@ uid: 5f978539-13f9-065a-cfad-b26480a6ba7d
 
 This page focuses on the course _9.04 Sensory Systems_ as it was taught by Professors Peter H. Schiller and Chris Brown in Fall 2013.
 
-This course examines the neural bases of visual and auditory processing for perception and sensorimotor control, focusing on physiological and anatomical studies of the mammalian nervous system as well as behavioral studies of animals and humans. The course features a discussion of cochlear implants led by an implant user and a tour of the [Massachusetts Eye and Ear Infirmary (MEEI)](http://www.masseyeandear.org/).
+This course examines the neural bases of visual and auditory processing for perception and sensorimotor control, focusing on physiological and anatomical studies of the mammalian nervous system as well as behavioral studies of animals and humans. The course features a discussion of cochlear implants led by an implant user and a tour of the {{% resource_link "ef972efd-1111-4e00-9407-64335b5955e9" "Massachusetts Eye and Ear Infirmary (MEEI)" %}}.
 
 ## Course Outcomes
 
@@ -33,7 +33,7 @@ Most of these students go on to graduate school in some aspect of neuroscience o
 
 ### Requirements Satisfied
 
-9.04 can be applied toward a [Bachelor of Science in Brain and Cognitive Sciences](http://catalog.mit.edu/schools/science/brain-cognitive-sciences/), but is not required.
+9.04 can be applied toward a {{% resource_link "49efca51-2f4f-41f2-a058-ceea4579f915" "Bachelor of Science in Brain and Cognitive Sciences" %}}, but is not required.
 
 ### Offered
 
